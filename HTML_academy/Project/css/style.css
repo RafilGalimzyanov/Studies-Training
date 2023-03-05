@@ -1,0 +1,477 @@
+h1 {
+	font-family: 'Roboto';
+	font-style: italic;
+	font-weight: 400;
+	font-size: 44px;
+	line-height: 60px;
+	/* identical to box height, or 136% */
+
+
+	color: #163152;
+}
+
+h2 {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 34px;
+	/* identical to box height, or 142% */
+
+	color: #163152;
+}
+
+h3 {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 22px;
+	/* identical to box height, or 138% */
+	margin-top: 20px;
+
+
+	color: #163152;
+}
+.main-img > h1 {
+	margin: 0;
+	padding: 0;
+	display: block;
+	margin-top: 0;
+	margin-left: 70px;
+	margin-bottom: 40px;
+}
+
+.contact-text > h2 {
+	margin-top: 0;
+	margin-bottom: 13px;
+}
+.rent > h2 {
+	display: block;
+	margin: 0;
+	padding: 0;
+	margin-bottom: 13px;
+}
+.boat-item > h3 {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 23px;
+	/* identical to box height, or 115% */
+
+	display: block;
+	align-items: center;
+	margin-bottom: 18px;
+	margin-top: 21px;
+
+	color: #163152;
+}
+.news-text > h3 {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 22px;
+	line-height: 26px;
+	/* identical to box height, or 118% */
+
+	display: flex;
+	align-items: center;
+
+	color: #163152;
+}
+.contact-list {
+	margin: 0;
+	margin-bottom: 20px;
+}
+
+p {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px;
+	/* or 150% */
+
+
+	color: #163152;
+}
+.news-text > p {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 26px;
+	/* or 144% */
+
+
+color: #163152;
+}
+
+a {
+	text-decoration: none;
+}
+
+.team-part-text > .create-line {
+  width: 268px;
+  border: 2px solid #00C6BD;
+}
+.water-born-text > .create-line {
+  width: 217px;
+  border: 2px solid #00C6BD;
+}
+.news > .create-line {
+	width: 97px;
+	border: 2px solid #00C6BD;
+	margin: 0 auto;
+	margin-bottom: 38px;
+}
+.contact-text > .create-line {
+  width: 113px;
+  border: 1px solid #00C6BD;
+  margin-bottom: 0px;
+}
+.gallery > .create-line {
+	width: 91px;
+	border: 1px solid #00C6BD;
+	margin-bottom: 40px;
+	margin-left: 540px;
+}
+.rent > .create-line {
+  width: 148px;
+  border: 1px solid #00C6BD;
+  margin-bottom: 40px;
+}
+.news > p {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 26px;
+	/* or 144% */
+
+
+	color: #163152;
+}
+.news > h3 {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 22px;
+	line-height: 26px;
+	/* identical to box height, or 118% */
+
+	display: flex;
+	align-items: center;
+	margin-top: 22px;
+	color: #163152;
+}
+
+.my-logo {
+	width: 36px;
+	height: 36px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border: 1px solid #00C6BD;
+	border-radius: 50%;
+}
+
+
+.main-header {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 18px;
+	/* identical to box height, or 129% */
+
+	text-transform: uppercase;
+
+	color: #163152;
+
+}
+
+.date {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 18px;
+	/* identical to box height, or 129% */
+
+	text-transform: uppercase;
+
+	color: #163152;
+}
+.signature {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 19px;
+	/* identical to box height, or 119% */
+
+	margin-top: 3px;
+	display: flex;
+	align-items: center;
+
+	color: #8693A4;
+}
+.command-item {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 26px;
+	/* identical to box height, or 144% */
+
+
+	color: #163152;
+}
+p.motivation {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 26px;
+	line-height: 36px;
+	/* or 138% */
+
+	color: #163152;
+}
+.author-name {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 19px;
+	/* identical to box height, or 119% */
+
+	display: flex;
+	align-items: center;
+
+	color: #163152;
+}
+span {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 19px;
+	/* identical to box height, or 119% */
+
+	display: flex;
+	align-items: center;
+
+	color: #8693A4;
+}
+.news-title {
+	margin: 0 auto;
+	margin-bottom: 13px;
+}
+
+.command-title {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 26px;
+	/* identical to box height, or 130% */
+
+
+	color: #163152;
+}
+body {
+	margin: 0;
+	padding: 0;
+}
+.page-header {
+	margin: 0;
+	padding: 20px 55px;
+	width: 1170px;
+	margin-bottom: 40px;
+}
+
+
+.main-nav {
+	display: flex;
+	align-items: center;
+}
+.main-header {
+	list-style: none;
+	width: 559px;
+	margin: 0px;
+	padding: 0;
+	display: flex;
+	justify-content: space-between;
+	margin-right: 40px;
+}
+
+.logo {
+	margin: 0;
+	margin-right: 471px;
+}
+.main-content {
+	margin: 0;
+	padding: 0 55px;
+	width: 1170px;
+}
+
+.main-img {
+	margin: 0 auto;
+	margin-bottom: 120px;
+}
+.team-part {
+	display: flex;
+	width: 1030px;
+	margin: 0 auto;
+	margin-bottom: 100px;
+}
+.team-part-text {
+	margin-right: 30px;
+}
+.water-born {
+	display: flex;
+	width: 1030px;
+	margin: 0 auto;
+	margin-bottom: 120px;
+}
+.water-born-text {
+	order: 1;
+	margin-left: 30px;
+}
+.news {
+	display: flex;
+	width: 770px;
+	margin: 0 auto;
+	margin-bottom: 132px;
+	flex-direction: column;
+}
+.main-contact {
+	display: flex;
+	width: 1170px;
+	margin: 0 auto;
+	margin-bottom: 120px;
+}
+.contact-text {
+	order: 1;
+	margin-left: 100px;
+}
+.page-footer {
+	display: flex;
+	width: 1480px;
+	padding: 60px 55px 60px 55px;
+	margin-bottom: 60px;
+}
+.footer-list {
+	display: flex;
+	margin: 0 auto;
+}
+.footer-confidentiality-list {
+	display: flex;
+}
+.gallery {
+	margin-bottom: 120px;
+	width: 1170px;
+}
+.gallery-title {
+	text-align: center;
+	margin-bottom: 13px;
+}
+.gallery-photo {
+	display: flex;
+}
+.gallery-photo-column {
+	display: flex;
+	flex-direction: column;
+}
+.photo-column {
+	margin-bottom: 30px;
+	padding-bottom: 7px;
+}
+.photo-column:last-child {
+	margin-bottom: 0px;
+}
+.gallery-main-photo {
+	margin-right: 30px;
+	margin-bottom: 30px;
+}
+.rent {
+	width: 1170px;
+	margin-left: 0px;
+	margin-bottom: 120px;
+}
+.boat-list {
+	display: flex;
+	margin: 0;
+	padding: 0;
+	gap: 30px;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.boat-list > li {
+	list-style: none;
+}
+.boat-item {
+	width: 310px;
+	display: flex;
+	flex-direction: column;
+	padding: 30px;
+	box-shadow: 0px 4px 30px rgba(22, 49, 82, 0.12);
+}
+.boat-item > p {
+	width: 310px;
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 24px;
+	/* or 171% */
+
+	display: flex;
+	align-items: center;
+	margin-bottom: 15px;
+
+	color: #163152;
+}
+.boat-item > img {
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+.about-boat {
+	margin-left: 20px;
+	margin-bottom: 29px;
+	padding: 0;
+}
+.about-boad-item {
+	margin-bottom: 4px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 19px;
+	/* identical to box height, or 136% */
+
+
+	color: #163152;
+	}
+.about-boad-item:last-child {
+	margin-bottom: 0;
+}
+.boat-price span{
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 21px;
+	/* identical to box height, or 117% */
+
+	color: #163152;
+}
+.boat-price {
+	display: flex;
+	justify-content: space-between;
+}
